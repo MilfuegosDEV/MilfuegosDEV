@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-🔭 I always thrive on challenge.<br>🌱 I’m currently learning REACT<br>💬 Ask me about any tech or music related stuff.<br>⚡ Fun fact: Tabs are better than spaces.
+🔭 I always thrive on challenge.<br>🌱 I’m currently learning ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=React&logoColor=white)
+<br>💬 Ask me about any tech or music related stuff.<br>⚡ Fun fact: Tabs are better than spaces.
 
 # Socials
 
