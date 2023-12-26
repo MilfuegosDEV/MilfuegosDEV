@@ -3,7 +3,7 @@
 🔭 I always thrive on challenge.<br>🌱 I’m currently learning: <br>
 ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=React&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br>
-💬 Ask me about any tech or music related stuff.<br>⚡ Fun fact: Tabs are better than spaces.
+💬 Ask me about any music-related stuff.<br>⚡ Fun fact: Tabs are better than spaces.
 
 # Socials
 
